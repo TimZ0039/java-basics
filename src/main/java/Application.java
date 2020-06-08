@@ -1,8 +1,11 @@
 public class Application {
     public static void main(String[] args){
-        System.out.println("Hello World");
-        System.out.println("Welcome!");
-        System.out.println("This is my new text");
-        System.out.println("Today is June 9th");
+        int a = 10;
+        int b = square(a);
+        System.out.println(b);
+    }
+
+    public static int square(int a) {
+        return a * a;
     }
 }
