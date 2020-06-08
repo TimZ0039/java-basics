@@ -3,5 +3,6 @@ public class Application {
         System.out.println("Hello World");
         System.out.println("Welcome!");
         System.out.println("This is my new text");
+        System.out.println("Today is June 9th");
     }
 }
