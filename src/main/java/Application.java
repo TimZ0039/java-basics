@@ -5,8 +5,8 @@ public class Application {
        System.out.println(y);
     }
 
-    public static int square(int a) {
-        return a * a;
+    public static void welcome(String name) {
+        // print out "Hello" and the name
     }
 
     public static int polynomial(int x){
