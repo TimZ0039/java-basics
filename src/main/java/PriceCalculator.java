@@ -16,6 +16,7 @@ public class PriceCalculator {
         }
         else
             System.out.println("$" + price);
+
     }
 }
 
